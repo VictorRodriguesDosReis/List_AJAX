@@ -1,4 +1,4 @@
-# Test_Lista_AJAX
+# List_AJAX
 Test of a list using AJAX, PHP, Javascript and HTML
 
 ### Insert ###
